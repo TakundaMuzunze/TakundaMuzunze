@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer/UX Designer
 ------------------------------
 
-UX Design intern & Computer Science student skilled in designing and developing responsive web-based applications using HTML5 & CSS3 and CMS platforms. Also possessing knowledge in UX and UI design.
+Computer Science student skilled in designing and developing responsive web-based applications using HTML5 & CSS3 and CMS platforms. Also possessing knowledge in UX and UI design.
 
 * 🌍  I'm based in Essex, UK
 * ✉️  You can contact me at [takmuzunze@gmail.com](mailto:takmuzunze@gmail.com)
-* 🧠  I'm learning Javascript
+* 🧠  I'm currently learning Javascript
 
 ### Skills
 
