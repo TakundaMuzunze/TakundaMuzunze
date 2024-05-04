@@ -9,7 +9,7 @@ Hello! I'm Takunda, a Computer Science graduate with a passion for Front End Dev
 * 🌍  I'm based in Essex, UK
 * 🖥️  See my portfolio website [here](http://takmuzunze.netlify.app)
 * ✉️  You can contact me at [takmuzunze@gmail.com](mailto:takmuzunze@gmail.com)
-* 🧠  I'm currently learning Javascript
+* 🧠  I'm currently learning Javascript & React
 
 ### Skills
 
