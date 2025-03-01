@@ -7,7 +7,7 @@ Junior Software Developer
 <p align="left">I'm a Junior Frontend Software Developer currently working with SvelteKit & TypeScript. I enjoy learning new technologies and improving my skills by building projects.</p>
 
 * 🌍  I'm based in Essex, UK
-* 🖥️  See my portfolio website [here](http://takmuzunze.netlify.app)
+* 🖥️  See my portfolio website [here](http://takmuzunze.co.uk)
 * ✉️  You can contact me at [takmuzunze@gmail.com](mailto:takmuzunze@gmail.com)
 * 🧠  I'm currently learning Svelte & Node.JS
 
