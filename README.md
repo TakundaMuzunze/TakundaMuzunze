@@ -76,7 +76,7 @@
 
 ###
 
-<p align="left"></p>
+<h2 align="left">📊 My Stats</h2>
 
 ###
 
